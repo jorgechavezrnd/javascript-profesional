@@ -9,3 +9,6 @@ npm i -D live-server
 ```
 npm start
 ```
+
+### URL for documentation about HTML Media Element
+- https://developer.mozilla.org/es/docs/Web/API/HTMLMediaElement
