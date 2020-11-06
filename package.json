@@ -1,12 +1,12 @@
 {
-  "name": "javascript-profesional",
+  "name": "platzi-media-player",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JavaScript",
+  "license": "MIT",
+  "author": "Jorge Carlos Chavez Ruiz <jorgechavezrnd@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {},
+  "devDependencies": {}
 }
