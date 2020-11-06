@@ -4,3 +4,8 @@
 ```
 npm i -D live-server
 ```
+
+### Command for start server
+```
+npm start
+```
