@@ -35,12 +35,4 @@ MediaPlayer.prototype.unmute = function() {
   this.media.muted = false;
 };
 
-MediaPlayer.prototype.toggleMute = function() {
-  if (this.media.muted) {
-    this.unmute();
-  } else {
-    this.mute();
-  }
-};
-
 export default MediaPlayer;
