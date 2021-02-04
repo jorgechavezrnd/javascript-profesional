@@ -70,8 +70,16 @@
         });
       }
 
-      function getTopMoviesInSequence() {
-        return [];
+      async function getTopMoviesInSequence() {
+        const ids = await getTopMoviesIds();
+        const movies = [];
+
+        for (const id of ids) {
+          const movie = await getMovie(id);
+          movies.push(movie);
+        }
+
+        return movies;
       }
 
       function getTopMoviesInParallel() {
