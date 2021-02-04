@@ -20,4 +20,4 @@ npm start
 - `https://astexplorer.net/`
 
 ### URL for Proxy documentation
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy#handler_functions
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy#Methods_of_the_handler_object
