@@ -18,3 +18,6 @@ npm start
 
 ### Abstract Syntax Tree (AST) explorer
 - `https://astexplorer.net/`
+
+### URL for Proxy documentation
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy#handler_functions
