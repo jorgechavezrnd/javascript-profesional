@@ -82,8 +82,13 @@
         return movies;
       }
 
-      function getTopMoviesInParallel() {
-        return [];
+      async function getTopMoviesInParallel() {
+        const ids = await getTopMoviesIds();
+        const moviePromises = ids.map(id => getMovie(id));
+
+        const movies = await Promise.all(moviePromises);
+
+        return movies;
       }
 
       async function getFastestTopMovie() {
