@@ -1,8 +1,13 @@
 # Curso Profesional de JavaScript
 
-### Command for install live-server
+### Command for install parcel-bundler
 ```
-npm i -D live-server
+npm install -D parcel-bundler
+```
+
+### Command for remove live-server
+```
+npm rm live-server
 ```
 
 ### Command for start server
