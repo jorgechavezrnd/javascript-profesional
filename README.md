@@ -14,10 +14,16 @@ npm start
 - https://developer.mozilla.org/es/docs/Web/API/HTMLMediaElement
 
 ### Esprima
-- `https://esprima.org/demo/parse.html#`
+- https://esprima.org/demo/parse.html#
 
 ### Abstract Syntax Tree (AST) explorer
-- `https://astexplorer.net/`
+- https://astexplorer.net/
 
 ### URL for Proxy documentation
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy#Methods_of_the_handler_object
+
+### Intersection Observer API
+- https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API
+
+### Page Visibility API
+- https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
