@@ -27,3 +27,6 @@ npm start
 
 ### Page Visibility API
 - https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
+
+### Service Worker API
+- https://developer.mozilla.org/es/docs/Web/API/Service_Worker_API
